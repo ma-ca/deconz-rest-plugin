@@ -351,9 +351,6 @@
             "ep": 1,
             "fn": "zcl:attr"
           },
-          "write": {
-            "fn": "time"
-          },
           "refresh.interval": 86400
         }
       ]
