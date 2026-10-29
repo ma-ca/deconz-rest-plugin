@@ -248,13 +248,7 @@
           "refresh.interval": 10800
         },
         {
-          "schema": "resourceitem1.schema.json",
-          "name": "config/schedule_read_day",
-          "datatype": "UInt8",
-          "access": "R",
-          "public": false,
-          "description": "Internal state to read the weekly schedule one day at a time: weekday to request next (0 = Sunday .. 6 = Saturday) + 7 * number of unanswered requests for that day.",
-          "default": 0
+          "name": "config/schedule_read_day"
         },
         {
           "name": "config/schedule_on",
