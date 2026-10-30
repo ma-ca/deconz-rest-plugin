@@ -167,7 +167,7 @@
             "eval": "Item.val;",
             "fn": "zcl:attr"
           },
-          "refresh.interval": 86400,
+          "refresh.interval": 3600,
           "default": 2100
         },
         {
